@@ -1,3 +1,2 @@
 .DS_Store
-tests/authy-ssh-test
-tests/authy-ssh-test.conf
+mailgun-ssh.conf
